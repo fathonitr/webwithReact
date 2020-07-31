@@ -84,6 +84,7 @@ export default class Work extends Component {
                 >
                   <div className="desc">
                     <div className="con">
+						<h1>Hello</h1>
                       <h3>
                         <a href="work.html">Work 02</a>
                       </h3>
